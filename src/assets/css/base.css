@@ -1,0 +1,14 @@
+:root {
+  --color-text: #666;
+  --color-high-text: #ff5777;
+  --color-tint: #ff8198;
+  --color-background: #fff;
+  --font-size: 14px;
+  --line-height: 1.5;
+  --main-bar-height: 75px;
+  --main-color:#08bf91;
+}
+body {
+  margin:0;
+  padding:0;
+}
